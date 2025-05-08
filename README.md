@@ -6,10 +6,6 @@
   <a href="#"><img alt="GitHub stars" src="https://img.shields.io/github/stars/nylo-core/nylo?style=plastic"></a>
 </p>
 
-## Contributing
-
-Please see <a href="https://nylo.dev/docs/6.x/contributions" target="_BLANK">CONTRIBUTING</a> for details.
-
 ## Licence
 
 The MIT License (MIT). Please view the [License](https://github.com/nylo-core/nylo/blob/master/licence) File for more information.
